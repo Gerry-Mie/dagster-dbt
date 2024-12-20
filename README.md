@@ -7,7 +7,7 @@ Ensure you have the following installed on your system:
 - [Docker](https://www.docker.com/)
 - A database client (e.g., [PgAdmin](https://www.pgadmin.org/), [DBeaver](https://dbeaver.io/))
 - A code editor (e.g., [VS Code](https://code.visualstudio.com/))
-- pythone version `">=3.9,<3.13"`
+- python version `">=3.9,<3.13"`
 
 ## 1. Environment Configuration
 
