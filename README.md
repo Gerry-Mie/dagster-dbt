@@ -87,8 +87,6 @@ tick:
 1. Access services in a browser:
     - **Dagster**: [http://localhost:3001](http://localhost:3001)
     - **Metabase**: [http://localhost:3000](http://localhost:3000)
-2. Test the DBT connection
-
 3. Test the DBT connection directly in the container:
     1. Access the container running DBT:
    ```shell
