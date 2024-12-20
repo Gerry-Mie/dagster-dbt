@@ -1,0 +1,7 @@
+.idea
+.venv
+local
+log
+*/logs
+
+.env
